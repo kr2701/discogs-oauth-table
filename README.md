@@ -1,3 +1,7 @@
+NOTE
+=================
+This is an altered version of discogs-oauth-example. For the latest version check the official repository. All files should be compatible.
+
 OAuth and Discogs
 =================
 The discogs-oauth-example repo was created to provide a very basic but functioning example of how a developer may utilize the python oauth2 library to download images and make authenticated calls against the Discogs API.
